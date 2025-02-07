@@ -1,0 +1,171 @@
+/* Your styles here */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap");
+
+body {
+  font-family: "Open Sans";
+  color: #393d41;
+  line-height: 1.65em;
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-family: Montserrat;
+  color: #25a2c3;
+  font-size: 2rem;
+  padding: 200px 0 20px;
+  line-height: 1.9rem;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.black {
+  background-color: black;
+  padding: 20px;
+}
+
+.back-g {
+  background-image: url(../S1-L5/Esercizio/images/banner.jpg);
+  text-align: center;
+  background-size: cover;
+  height: 550px;
+}
+
+p.back-g {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.back-g button {
+  background-color: #f04c2f;
+  border: 1px solid #f04c2f;
+  padding: 10px 19px;
+  margin: 20px;
+  border-radius: 0.3em;
+  color: #ffff;
+  font-family: montserrat;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: Montserrat;
+  color: #25a2c3;
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 40px 17px 10px;
+  line-height: 1.5rem;
+}
+
+section {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.space {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.img-pc img {
+  display: block;
+  border-radius: 50%;
+  margin: 30px 48px 30px 0px;
+  float: left;
+}
+
+#text-box h2 {
+  text-align: left;
+}
+
+#red {
+  background-color: #e22d0e;
+  color: #ffff;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#red p {
+  text-align: center;
+}
+
+#red blockquote {
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.3rem;
+  padding-bottom: 30px;
+  width: 70%;
+  margin: 0 auto;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: montserrat;
+  font-size: 1.7rem;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  color: #fff;
+}
+
+#red small {
+  font-size: 0.85rem;
+}
+
+.box-one {
+  border: 1px solid #dee1e3;
+  padding-bottom: 40px;
+  margin-bottom: 30px;
+  border-radius: 2px 4px 4px;
+  width: 30%;
+  margin: 0 20px;
+  display: inline-block;
+}
+
+.box-one img {
+  width: 100%;
+}
+
+.box-one p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  width: 80%;
+  margin: 0 auto;
+}
+
+h4 {
+  font-family: Montserrat;
+  color: #25a2c3;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 10px 17px 10px;
+  line-height: 1.5rem;
+}
+
+footer {
+  background-color: #25a2c3;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+footer address {
+  color: #fff;
+  padding-bottom: 20px;
+}
+
+footer hr {
+  color: #fff;
+  width: 50%;
+}
+
+p.white {
+  color: #fff;
+  font-size: 0.75rem;
+}
+
+footer a {
+  color: #fff;
+}
+
+.left {
+  text-align: left;
+}
